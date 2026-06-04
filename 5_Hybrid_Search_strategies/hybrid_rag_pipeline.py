@@ -44,7 +44,7 @@ from langchain_community.document_loaders import (
 # STEP 1: DOCUMENT LOADING
 # ============================================================================
 # Load raw text documents from the temporary directory path
-data_directory = r"C:\Users\shiva\AppData\Local\Temp\tmp8qb1tq5f"
+data_directory = r"<file_path>"
 
 print(f"\nScanning and loading text files from: {data_directory}...")
 loader = DirectoryLoader(
