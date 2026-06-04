@@ -1,0 +1,9 @@
+Sparse Retriever:Sparse retrieval looks for exact words.
+	BM25
+	TF-IDF
+	Elasticsearch
+
+Dense Retriever: Exact words don't match. Dense Retrieval understands meaning.
+
+
+Note: dense_and_sparse & hybird_rag_pipeline both files are same
